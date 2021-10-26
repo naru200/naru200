@@ -2,7 +2,7 @@
 
 ### Current
 
-- Software Engineer at **[PPLINK](https://github.com/pplink)**
+- Software Engineer at 
 - Undergraduate at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
 - Regulator(Moderator) at **[AUSG](https://ausg.me)**
 
