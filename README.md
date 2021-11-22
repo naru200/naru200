@@ -2,7 +2,7 @@
 
 ### Current
 
-- Software Engineer at 
+- Software Engineer at @daangn - 
 - Undergraduate at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
 - Regulator(Moderator) at **[AUSG](https://ausg.me)**
 
