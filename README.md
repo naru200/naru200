@@ -8,7 +8,6 @@
 
 [![LinkedIn](http://img.shields.io/badge/-Naru200-0072b1?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/naru200/)](https://www.linkedin.com/in/naru200/)
 [![GMail](http://img.shields.io/badge/-jinsu2504@gmail.com-EA4335?style=flat-square&logo=gmail&link=mailto:jinsu2504@gmail.com&logoColor=white)](mailto:jinsu2504@gmail.com)
-[![Resume](http://img.shields.io/badge/-Resume(Korean)-00B388?style=flat-square&logo=readthedocs&link=https://read.cv/naru200&logoColor=white)](https://read.cv/naru200)
 
 ### Stats
 
