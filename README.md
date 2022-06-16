@@ -1,4 +1,4 @@
-👋  Hi, I'm Jinsu Bae, junior **Software Engineer**
+👋  Hi, I'm Jinsu Bae, **Software Engineer**
 
 ### Current
 
