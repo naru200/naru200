@@ -3,7 +3,7 @@
 ### Current
 
 - Software Engineer at **당근마켓[(@daangn)](https://github.com/daangn)**
-- Regulator(Moderator) at **[AUSG](https://ausg.me)**
+- Co-Organizer at **[AUSG](https://ausg.me)**
 - Undergraduate at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
 
 [![LinkedIn](http://img.shields.io/badge/-Naru200-0072b1?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/naru200/)](https://www.linkedin.com/in/naru200/)
