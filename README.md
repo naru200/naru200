@@ -3,7 +3,7 @@
 ### Current
 
 - Software Engineer at **당근마켓[(@daangn)](https://github.com/daangn)**
-- **[AWS Community Builder]([https://ausg.me](https://aws.amazon.com/ko/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Korea&cb-cards.q_operator=AND))**
+- **[AWS Community Builder]([https://ausg.me](https://aws.amazon.com/ko/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Korea&cb-cards.q_operator=AND)**
 - Co-Organizer at **[AUSG](https://ausg.me)**
 - Undergraduate at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
 
