@@ -2,8 +2,9 @@
 
 ### Current
 
-- Former Software Engineer at **당근마켓[(@daangn)](https://github.com/daangn)**, Nov 2021 to Jan 2025
+- **[AWS Cloud Clubs South Korea](https://www.awscloudclubs.kr/)** Regional Captain
 - **[AWS Community Builder](https://aws.amazon.com/ko/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Korea&cb-cards.q_operator=AND)** in South Korea
+- Former Software Engineer at **당근마켓[(@daangn)](https://github.com/daangn)**, Nov 2021 to Jan 2025
 - Former Co-Organizer at **[AUSG](https://ausg.me)**
 - Undergraduate at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
 
