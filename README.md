@@ -16,10 +16,6 @@
 [![GMail](http://img.shields.io/badge/-jinsu2504@gmail.com-EA4335?style=flat-square&logo=gmail&link=mailto:jinsu2504@gmail.com&logoColor=white)](mailto:jinsu2504@gmail.com)
 
 
-[![HITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnaru200&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
-
-
-
 
 
 
