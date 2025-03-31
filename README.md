@@ -4,11 +4,7 @@
 ## About me
 - Former Software Engineer at **당근마켓[(@daangn)](https://github.com/daangn)** (2021/11 ~ 2025/01)
 - Former Front-end Engineer at **Pagecall** (2021/06 ~ 2021/11)
-
-
 - Undergraduate student at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
-
-
 - **[AWS Cloud Clubs South Korea](https://www.awscloudclubs.kr/)** Regional Captain
 - **[AWS Community Builder](https://aws.amazon.com/ko/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Korea&cb-cards.q_operator=AND)** in South Korea
 - Former Co-Organizer at **[AUSG](https://ausg.me)**
