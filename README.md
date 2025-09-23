@@ -1,12 +1,13 @@
 👋  Hi, I'm Jinsu Bae, a **Software Engineer**
 
+I am a software engineer with around five years of work experience. I primarily work on front-end engineering using React and Next.js, and I also possess practical experience and expertise in server-side engineering with Node.js and Golang, as well as building and maintaining infrastructure and operations utilizing AWS.
 
 ## About me
-- Former Software Engineer at **당근마켓[(@daangn)](https://github.com/daangn)** (2021/11 ~ 2025/01)
+- Currently working as a freelancer on several projects.
+- Former Software Engineer at **[당근마켓(Karrot)](https://github.com/daangn)** (2021/11 ~ 2025/01)
 - Former Front-end Engineer at **Pagecall** (2021/06 ~ 2021/11)
 - Undergraduate student at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
-- **[AWS Cloud Clubs South Korea](https://www.awscloudclubs.kr/)** Regional Captain
-- **[AWS Community Builder](https://aws.amazon.com/ko/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Korea&cb-cards.q_operator=AND)** in South Korea
+- **[AWS Community Builder](https://aws.amazon.com/ko/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Korea&cb-cards.q_operator=AND)** in South Korea, since 2023
 - Former Co-Organizer at **[AUSG](https://ausg.me)**
 
 ## Certifications
