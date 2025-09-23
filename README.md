@@ -7,7 +7,7 @@ I am a software engineer with around five years of work experience. I primarily 
 - Former Software Engineer at **[당근마켓(Karrot)](https://github.com/daangn)** (2021 ~ 2025)
 - Former Front-end Engineer at **Pagecall** (2021 ~ 2021)
 - Undergraduate student at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
-- **[AWS Community Builder]([https://aws.amazon.com/ko/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Korea&cb-cards.q_operator=AND](https://builder.aws.com/community/@naru200))** in South Korea, since 2023
+- **[AWS Community Builder](https://builder.aws.com/community/@naru200)** in South Korea, since 2023
 - Former Co-Organizer at **[AUSG](https://ausg.me)**
 
 ## Certifications
