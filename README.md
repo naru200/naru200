@@ -4,7 +4,7 @@ I am a software engineer with around five years of work experience. I primarily 
 
 ## About me
 - Currently working as a freelancer on several projects.
-- Former Software Engineer at **[당근마켓(Karrot)](https://github.com/daangn)** (2021 ~ 2025)
+- Former Software Engineer at **[당근(Karrot)](https://github.com/daangn)** (2021 ~ 2025)
 - Former Front-end Engineer at **Pagecall** (2021 ~ 2021)
 - Undergraduate student at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
 - **[AWS Community Builder](https://builder.aws.com/community/@naru200)** in South Korea, since 2023
