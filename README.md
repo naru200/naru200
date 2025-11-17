@@ -3,7 +3,7 @@
 I am a software engineer with around five years of work experience. I primarily work on front-end engineering using React and Next.js, and I also possess practical experience and expertise in server-side engineering with Node.js, as well as building and maintaining infrastructure and operations utilizing AWS.
 
 ## About me
-- Currently working as a freelancer on several projects.
+- Currently working as a freelancer on multiple projects in Korea and America.
 - Former Software Engineer at **[당근(Karrot)](https://github.com/daangn)** (2021 ~ 2025)
 - Former Front-end Engineer at **Pagecall** (2021 ~ 2021)
 - Undergraduate student at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
