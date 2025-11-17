@@ -1,6 +1,10 @@
 👋  Hi, I'm Jinsu Bae, a **Software Engineer**
 
-I am a software engineer with around five years of work experience. I primarily work on front-end engineering using React and Next.js, and I also possess practical experience and expertise in server-side engineering with Node.js, as well as building and maintaining infrastructure and operations utilizing AWS.
+I am a software engineer with about 5 years of work experience. I primarily work on front-end engineering with React and Next.js, and I also possess practical experience and expertise in server-side engineering with Node.js, as well as building and maintaining infrastructure and operations using AWS and GCP.
+
+I always focus on the problem itself and strive to solve it in the best way possible without being tied to specific technologies. So rather than building my career by focusing on particular technologies or fields, I have gained expertise by experiencing a wide range of problems in various situations and solving them with the proper technologies.
+
+I typically worked in a small team, collaborating with managers and designers to analyze user behavior, improve products, and drive growth in key metrics.
 
 ## About me
 - Currently working as a freelancer on multiple projects in Korea and America.
