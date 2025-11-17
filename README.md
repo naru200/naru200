@@ -8,7 +8,7 @@ I am a software engineer with around five years of work experience. I primarily 
 - Former Front-end Engineer at **Pagecall** (2021 ~ 2021)
 - Undergraduate student at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
 - **[AWS Community Builder](https://builder.aws.com/community/@naru200)** in South Korea, since 2023
-- Former Co-Organizer at **[AUSG](https://ausg.me)**
+- Former Co-Organizer at **[AUSG](https://ausg.me)**, the AWS Community for university students.
 
 ## Certifications
 - [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/0cc29460-059d-4e17-98bb-733f8e65cc0d/public_url)
