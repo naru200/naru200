@@ -4,7 +4,7 @@ I am a software engineer with about 5 years of work experience. I primarily work
 
 I always focus on the problem itself and strive to solve it in the best way possible without being tied to specific technologies. So rather than building my career by focusing on particular technologies or fields, I have gained expertise by experiencing a wide range of problems in various situations and solving them with the proper technologies.
 
-I typically worked in a small team, collaborating with managers and designers to analyze user behavior, improve products, and drive growth in key metrics.
+I've typically worked in a small team, collaborating with managers and designers to analyze user behavior, improve products, and drive growth in key metrics.
 
 ## About me
 - Currently working as a freelancer on multiple projects in Korea and America.
