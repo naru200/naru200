@@ -7,7 +7,6 @@ I always focus on the problem itself and strive to solve it in the best way poss
 I've typically worked in a small team, collaborating with managers and designers to analyze user behavior, improve products, and drive growth in key metrics.
 
 ## About me
-- Currently working as a freelancer on multiple projects in Korea and America.
 - Former Software Engineer at **[당근(Karrot)](https://github.com/daangn)** (2021 ~ 2025)
 - Former Front-end Engineer at **Pagecall** (2021 ~ 2021)
 - Undergraduate student at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
