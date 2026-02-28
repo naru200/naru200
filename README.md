@@ -7,11 +7,10 @@ I always focus on the problem itself and strive to solve it in the best way poss
 I've typically worked in a small team, collaborating with managers and designers to analyze user behavior, improve products, and drive growth in key metrics.
 
 ## About me
-- Working as a full-stack engineer at a stealth startup based in London. (full-remote) (2025 – Present)
+- Working as a full-stack engineer at a stealth startup based in London (full-remote) (2021 – 2025)
 - Former Software Engineer at **[당근(Karrot)](https://github.com/daangn)** (2021 – 2025)
-- Undergraduate student at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
 - **[AWS Community Builder](https://builder.aws.com/community/@naru200)** in South Korea, since 2023
-- Former Co-Organizer at **[AUSG](https://ausg.me)**, the AWS Community for university students.
+- Undergraduate student at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
 
 ## Certifications
 - [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/0cc29460-059d-4e17-98bb-733f8e65cc0d/public_url)
