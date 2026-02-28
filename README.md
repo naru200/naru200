@@ -7,8 +7,8 @@ I always focus on the problem itself and strive to solve it in the best way poss
 I've typically worked in a small team, collaborating with managers and designers to analyze user behavior, improve products, and drive growth in key metrics.
 
 ## About me
-- Former Software Engineer at **[당근(Karrot)](https://github.com/daangn)** (2021 ~ 2025)
-- Former Front-end Engineer at **Pagecall** (2021 ~ 2021)
+- Working as a full-stack engineer at a stealth startup based in London. (full-remote) (2025 – Present)
+- Former Software Engineer at **[당근(Karrot)](https://github.com/daangn)** (2021 – 2025)
 - Undergraduate student at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
 - **[AWS Community Builder](https://builder.aws.com/community/@naru200)** in South Korea, since 2023
 - Former Co-Organizer at **[AUSG](https://ausg.me)**, the AWS Community for university students.
