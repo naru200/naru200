@@ -7,7 +7,7 @@ I always focus on the problem itself and strive to solve it in the best way poss
 I've typically worked in a small team, collaborating with managers and designers to analyze user behavior, improve products, and drive growth in key metrics.
 
 ## About me
-- Full-stack engineer at a stealth startup on a remote team based in London (2025 – Present)
+- Full-stack engineer at a stealth startup in London (2025 – Present, remote)
 - Former Software Engineer at **[당근(Karrot)](https://github.com/daangn)** (2021 – 2025)
 - **[AWS Community Builder](https://builder.aws.com/community/@naru200)** in South Korea, since 2023
 - Undergraduate student at **[Inha University](https://inha.ac.kr/)**, **Computer Engineering**
